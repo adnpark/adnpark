@@ -2,7 +2,7 @@
 
 I'm a crypto developer.
 
-I love to make things in crypto.
+I love to create things in crypto.
 
 "Make it run, make it secure, make it efficient" is the general programming process I follow.
 
