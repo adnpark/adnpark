@@ -4,7 +4,7 @@ I'm a crypto developer.
 
 I love to create things in crypto.
 
-"Make it run, make it secure, make it (gas) efficient" is the general programming process I follow.
+"Make it run, make it secure, make it optimized" is the general development process I follow.
 
 <!--
 **adnpark/adnpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
