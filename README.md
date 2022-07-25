@@ -2,4 +2,4 @@
 
 I'm a crypto developer.
 
-Learn, Create, and Share.
+Live to learn, create, and share.
