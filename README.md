@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm a crypto developer.
+I'm a blockchain engineer.
 
 Love to learn, create, and share.
