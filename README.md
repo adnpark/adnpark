@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm a blockchain engineer.
-
-Love to learn, create, and share.
+I’m a DevRel engineer and technical writer who loves learning and sharing technical knowledge with others.
