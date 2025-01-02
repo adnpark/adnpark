@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m a DevRel engineer and technical writer who loves learning and sharing technical knowledge with others.
+I’m a DevRel engineer and Technical Writer who loves learning and sharing technical knowledge with others.
