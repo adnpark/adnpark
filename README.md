@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m a DevRel engineer and Technical Writer who loves learning and sharing technical knowledge with others.
+I’m a DevRel Engineer & Technical Writer specialized in Crypto/Web3. I love learning and sharing technical knowledge with others.
